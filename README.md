@@ -1,2 +1,2 @@
 # Olymgeo
-hihihihaw
+just want to store my beloved geometry problems here lol
